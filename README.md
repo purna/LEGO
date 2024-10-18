@@ -20,7 +20,6 @@ You will create a narrative within the game that tells part of the characters st
 
 As part of the criteria (3.1 Apply academic conventions in the production and presentation of ideas.) You will need to investigate a facet of video game design and write a **short essay** on your findings. It is expected that students should produce a piece of extended writing of a minimum of 1,500 words.
 
-| Handout date TBC October 2024 | Hand in date TBC December 2024 |
 | :---: | :---: |
 
 ## 
