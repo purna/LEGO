@@ -1,11 +1,15 @@
 # LEGO
 
+
 | UNIT 12 Specialist study in creative media production  | LEGO PROJECT    |
 | :---- | :---- |
 |  |  |
 | **Unit aim:** This unit will require students to research and critically examine the influence of historical and contemporary contexts on their own practice. The unit will enable the student to demonstrate a greater depth of understanding of their discipline and place within it. **Learning outcomes** The student will: 1\. Understand the principles and practices of a chosen discipline in creative media production.  2\. Be able to locate and evaluate information from a range of sources.  3\. Be able to communicate ideas and arguments in a variety of form  | **Assessment criteria** The student can: 1.1 Critically describe a range of contextual perspectives influencing a chosen discipline in creative media production.  1.2 Apply knowledge of critical perspectives to inform your own practice.  2.1 Identify a range of relevant academic and cultural sources for a personal research project.  2.2 Critically evaluate information from a range of sources to inform ideas.  3.1 Apply academic conventions in the production and presentation of ideas.  3.2 Effectively communicate ideas in appropriate formats.   |
 
 Hopefully you will have fun completing this assignment and develop your skills in teamwork and software development. This will be particularly helpful to those of you who are thinking about your FMP as this document will show you what you need to do to achieve a higher grade. If you are ready then we will begin\!
+
+![LEGO](/purna/LEGO/gfx/lego.png "LEGO")
+
 
 ## Brief
 
