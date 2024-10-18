@@ -1,4 +1,6 @@
 # LEGO
+![LEGO](/gfx/unity.png "LEGO")
+
 
 
 | UNIT 12 Specialist study in creative media production  | LEGO PROJECT    |
