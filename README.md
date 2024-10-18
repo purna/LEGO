@@ -1,8 +1,5 @@
 # LEGO
 ![LEGO](/gfx/unity.png "LEGO")
-
-
-
 | UNIT 12 Specialist study in creative media production  | LEGO PROJECT    |
 | :---- | :---- |
 |  |  |
@@ -11,8 +8,6 @@
 Hopefully you will have fun completing this assignment and develop your skills in teamwork and software development. This will be particularly helpful to those of you who are thinking about your FMP as this document will show you what you need to do to achieve a higher grade. If you are ready then we will begin\!
 
 ![LEGO](/gfx/lego.png "LEGO")
-
-
 ## Brief
 
 For this assignment you will be working on your own or in groups to design and produce a LEGO game in Unity.
