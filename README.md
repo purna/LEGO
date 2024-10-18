@@ -8,7 +8,7 @@
 
 Hopefully you will have fun completing this assignment and develop your skills in teamwork and software development. This will be particularly helpful to those of you who are thinking about your FMP as this document will show you what you need to do to achieve a higher grade. If you are ready then we will begin\!
 
-![LEGO](/purna/LEGO/gfx/lego.png "LEGO")
+![LEGO](/gfx/lego.png "LEGO")
 
 
 ## Brief
