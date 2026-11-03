@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: a5cad940522d745bba4c1649b7c44cb1
-AssetOrigin:
-  serializedVersion: 1
-  productId: 179847
-  packageName: 
-  packageVersion: 3.0.0
-  assetPath: Assets/LEGO/Tutorials/5 Add Enemy/change-velocity-and-accuracy.mov
-  uploadId: 489201
 VideoClipImporter:
   externalObjects: {}
   serializedVersion: 2

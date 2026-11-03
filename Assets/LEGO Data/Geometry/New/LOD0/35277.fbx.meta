@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: a82f63511538d4980a012e6124ceb7be
-AssetOrigin:
-  serializedVersion: 1
-  productId: 179847
-  packageName: 
-  packageVersion: 3.0.0
-  assetPath: Assets/LEGO Data/Geometry/New/LOD0/35277.fbx
-  uploadId: 489201
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -23,6 +16,8 @@ ModelImporter:
     optimizeGameObjects: 0
     removeConstantScaleCurves: 0
     motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 

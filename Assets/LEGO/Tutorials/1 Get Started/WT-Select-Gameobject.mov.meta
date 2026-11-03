@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: 79dadb0d7a0c143db8700a2c64e462c8
-AssetOrigin:
-  serializedVersion: 1
-  productId: 179847
-  packageName: 
-  packageVersion: 3.0.0
-  assetPath: Assets/LEGO/Tutorials/1 Get Started/WT-Select-Gameobject.mov
-  uploadId: 489201
 VideoClipImporter:
   externalObjects: {}
   serializedVersion: 2

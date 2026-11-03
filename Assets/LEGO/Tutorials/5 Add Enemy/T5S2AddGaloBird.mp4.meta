@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: 9a3106997c0271a48a1f265fbe950eb8
-AssetOrigin:
-  serializedVersion: 1
-  productId: 179847
-  packageName: 
-  packageVersion: 3.0.0
-  assetPath: Assets/LEGO/Tutorials/5 Add Enemy/T5S2AddGaloBird.mp4
-  uploadId: 489201
 VideoClipImporter:
   externalObjects: {}
   serializedVersion: 2

@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: ca54402b11c804427a5233f4441908ed
-AssetOrigin:
-  serializedVersion: 1
-  productId: 179847
-  packageName: 
-  packageVersion: 3.0.0
-  assetPath: Assets/LEGO/Tutorials/6 Customize/6_goToIsland.mp4
-  uploadId: 489201
 VideoClipImporter:
   externalObjects: {}
   serializedVersion: 2

@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: 42d4808c22d722444a8a53bd9bc716e2
-AssetOrigin:
-  serializedVersion: 1
-  productId: 179847
-  packageName: 
-  packageVersion: 3.0.0
-  assetPath: Assets/LEGO/Tutorials/2 Obstacle/2_rotate.mp4
-  uploadId: 489201
 VideoClipImporter:
   externalObjects: {}
   serializedVersion: 2

@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: fe854e9c53b80421ba6634be9fc1e4c7
-AssetOrigin:
-  serializedVersion: 1
-  productId: 179847
-  packageName: 
-  packageVersion: 3.0.0
-  assetPath: Assets/LEGO/Tutorials/6 Customize/6_fenceInWay.mp4
-  uploadId: 489201
 VideoClipImporter:
   externalObjects: {}
   serializedVersion: 2

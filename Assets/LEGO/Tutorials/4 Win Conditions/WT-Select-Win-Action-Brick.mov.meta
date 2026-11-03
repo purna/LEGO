@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: 73fcf98d1de4b4cd28bcea3c0a6edfb4
-AssetOrigin:
-  serializedVersion: 1
-  productId: 179847
-  packageName: 
-  packageVersion: 3.0.0
-  assetPath: Assets/LEGO/Tutorials/4 Win Conditions/WT-Select-Win-Action-Brick.mov
-  uploadId: 489201
 VideoClipImporter:
   externalObjects: {}
   serializedVersion: 2

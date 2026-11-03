@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: 7562fb88673124dd285e901a5c6097b3
-AssetOrigin:
-  serializedVersion: 1
-  productId: 179847
-  packageName: 
-  packageVersion: 3.0.0
-  assetPath: Assets/LEGO/Tutorials/3 Elevator/3_cant_get_up.mp4
-  uploadId: 489201
 VideoClipImporter:
   externalObjects: {}
   serializedVersion: 2

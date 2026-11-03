@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: ef57d7b93d1d24928be2171268fd4cb6
-AssetOrigin:
-  serializedVersion: 1
-  productId: 179847
-  packageName: 
-  packageVersion: 3.0.0
-  assetPath: Assets/LEGO/Tutorials/6 Customize/6_connectExplode.mp4
-  uploadId: 489201
 VideoClipImporter:
   externalObjects: {}
   serializedVersion: 2

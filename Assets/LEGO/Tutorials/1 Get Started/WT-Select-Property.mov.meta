@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: 87d213d9011a74f4790e16e70e97351b
-AssetOrigin:
-  serializedVersion: 1
-  productId: 179847
-  packageName: 
-  packageVersion: 3.0.0
-  assetPath: Assets/LEGO/Tutorials/1 Get Started/WT-Select-Property.mov
-  uploadId: 489201
 VideoClipImporter:
   externalObjects: {}
   serializedVersion: 2

@@ -62,7 +62,6 @@ MonoBehaviour:
               m_Text: Elevator
               m_Image: {fileID: 0}
               m_Tooltip: 
-              m_TextWithWhitespace: 
             m_ControlName: 
             m_PropertyPath: 
             m_TargetType:

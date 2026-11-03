@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: 4a8744877b4854d9098ec8931d6a5bec
-AssetOrigin:
-  serializedVersion: 1
-  productId: 179847
-  packageName: 
-  packageVersion: 3.0.0
-  assetPath: Assets/LEGO/Tutorials/5 Add Enemy/WT-Select-Shoot-Brick.mov
-  uploadId: 489201
 VideoClipImporter:
   externalObjects: {}
   serializedVersion: 2

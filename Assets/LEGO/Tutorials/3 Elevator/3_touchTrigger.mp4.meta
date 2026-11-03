@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: 353d6f926a65449cab4f03be4f2b2af4
-AssetOrigin:
-  serializedVersion: 1
-  productId: 179847
-  packageName: 
-  packageVersion: 3.0.0
-  assetPath: Assets/LEGO/Tutorials/3 Elevator/3_touchTrigger.mp4
-  uploadId: 489201
 VideoClipImporter:
   externalObjects: {}
   serializedVersion: 2

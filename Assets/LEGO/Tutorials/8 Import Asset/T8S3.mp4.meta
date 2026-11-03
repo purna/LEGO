@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: e43fd1e21fcd5a14f98b1f46cc7500e4
-AssetOrigin:
-  serializedVersion: 1
-  productId: 179847
-  packageName: 
-  packageVersion: 3.0.0
-  assetPath: Assets/LEGO/Tutorials/8 Import Asset/T8S3.mp4
-  uploadId: 489201
 VideoClipImporter:
   externalObjects: {}
   serializedVersion: 2

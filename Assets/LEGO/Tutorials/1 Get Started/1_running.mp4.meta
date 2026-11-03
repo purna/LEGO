@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: 62d27a8aca1c14879bb1085914c42111
-AssetOrigin:
-  serializedVersion: 1
-  productId: 179847
-  packageName: 
-  packageVersion: 3.0.0
-  assetPath: Assets/LEGO/Tutorials/1 Get Started/1_running.mp4
-  uploadId: 489201
 VideoClipImporter:
   externalObjects: {}
   serializedVersion: 2

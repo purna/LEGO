@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: 194ae40129c22de4580ce366e5ae0c20
-AssetOrigin:
-  serializedVersion: 1
-  productId: 179847
-  packageName: 
-  packageVersion: 3.0.0
-  assetPath: Assets/LEGO/Tutorials/3 Elevator/3_brickEnabled.mp4
-  uploadId: 489201
 VideoClipImporter:
   externalObjects: {}
   serializedVersion: 2

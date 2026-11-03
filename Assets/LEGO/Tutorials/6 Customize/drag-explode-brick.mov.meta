@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: 909cdd4613d5549ea8a4a7b0908e470c
-AssetOrigin:
-  serializedVersion: 1
-  productId: 179847
-  packageName: 
-  packageVersion: 3.0.0
-  assetPath: Assets/LEGO/Tutorials/6 Customize/drag-explode-brick.mov
-  uploadId: 489201
 VideoClipImporter:
   externalObjects: {}
   serializedVersion: 2

@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: 00987ec6e4c956849ad71f9f8e14d071
-AssetOrigin:
-  serializedVersion: 1
-  productId: 179847
-  packageName: 
-  packageVersion: 3.0.0
-  assetPath: Assets/LEGO/Tutorials/2 Obstacle/T2S3AddPlatform.mp4
-  uploadId: 489201
 VideoClipImporter:
   externalObjects: {}
   serializedVersion: 2

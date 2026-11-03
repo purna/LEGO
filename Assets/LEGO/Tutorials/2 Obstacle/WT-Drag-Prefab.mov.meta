@@ -1,12 +1,5 @@
 fileFormatVersion: 2
 guid: 21042fd7b48d344d99a305f8c1fe0f0a
-AssetOrigin:
-  serializedVersion: 1
-  productId: 179847
-  packageName: 
-  packageVersion: 3.0.0
-  assetPath: Assets/LEGO/Tutorials/2 Obstacle/WT-Drag-Prefab.mov
-  uploadId: 489201
 VideoClipImporter:
   externalObjects: {}
   serializedVersion: 2
